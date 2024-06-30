@@ -3,7 +3,7 @@
 ## Run the application
 
 ### Start Client
-```cd client``` & ```npm start```
+```cd client``` & ```npm i``` & ```npm start```
 
 ### Start Server
-```cd server``` & ```npm start```
+```cd server``` & ```npm i``` & ```npm start```
